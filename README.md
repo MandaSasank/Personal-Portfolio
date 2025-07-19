@@ -1,43 +1,31 @@
 # Manda Sasank - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
-
 This is my personal portfolio website showcasing my education,experience,skills and projects built using html css and javascript.
 ## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![About Section](website-demo-image/about section.jpg)
+![Resume Section](website-demo-image/resume section.jpg)
+![Portfolio Section](website-demo-image/portfolio section.jpg)
+![Contact Section](website-demo-image/contact section.jpg)
 
-## Prerequisites
+## Live Preview
 
-Before you begin, ensure you have met the following requirements:
+Check out the live version of my portfolio here: [View Portfolio](https://personal-portfolio-guwexmqll-sasanks-projects-e0e07620.vercel.app/)
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## Features
 
-## Installing vCard
+- Responsive personal portfolio website
+- Sections: About, Resume, Portfolio, Contact
+- Built with HTML, CSS, JavaScript
 
-To install **vCard**, follow these steps:
+## Technologies Used
 
-Linux and macOS:
+- HTML
+- CSS
+- JavaScript
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
 
-Windows:
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
 
-## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
 
-## License
-
-MIT
