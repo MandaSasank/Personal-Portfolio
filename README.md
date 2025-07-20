@@ -10,7 +10,7 @@ This is my personal portfolio website showcasing my education,experience,skills 
 
 ## Live Preview
 
-Check out the live version of my portfolio here: [View Portfolio](https://personal-portfolio-guwexmqll-sasanks-projects-e0e07620.vercel.app/)
+Check out the live version of my portfolio here: [View Portfolio](https://personal-portfolio-seven-zeta-84.vercel.app/)
 
 ## Features
 
