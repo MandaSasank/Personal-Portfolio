@@ -331,10 +331,12 @@ main {
   gap: 15px;
 }
 
-.avatar-box {
-  background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+ .avatar-box {
+    background: var(--bg-gradient-onyx);
+    border-radius: 50%;     
+    overflow: hidden;       
 }
+
 
 .info-content .name {
   color: var(--white-2);
